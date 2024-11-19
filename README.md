@@ -4,7 +4,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## Índice
+## Índice✅
 
 1. [The Last Secret](#the-last-secret)
 2. [Objetivos do Jogo](#objetivos-do-jogo)
@@ -16,28 +16,29 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 8. [Interface do Usuário (UI)](#interface-do-usuário-ui)
 9. [Configurações e Parâmetros](#configurações-e-parâmetros)
 10. [Guia de Testes](#guia-de-testes)
-11. [Referências e Links Externos](#referências-e-links-externos)
+11. [Tecnologias Utilizadas](tecnologias-utilizadas)
+12. [Referências e Links Externos](#referências-e-links-externos)
 
 ---
 
-## 1. Visão Geral
+## 1. Visão Geral✅
 
 - **Nome do Jogo:** The Last Secret
 - **Data de Início do Projeto:** 06/11/2024
 - **Plataforma:** Roblox
-- **Desenvolvedores:** Alysson Kennedy, Geovana Rodrigues, Matheus Costa e Taís Doring
+- **Desenvolvedores:** Alysson Kennedy, Geovana Rodrigues, Matheus Costa e Taís Doring.
 - **Descrição:** Resumo breve do jogo, incluindo tema, narrativa e estilo.
 
 ---
 
-## 2. Objetivos do Jogo
+## 2. Objetivos do Jogo❌
 
 - **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
 - **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
 
 ---
 
-## 3. Recursos do Jogo
+## 3. Recursos do Jogo❌
 
 - **Recursos Principais:** Listagem dos principais recursos e diferenciais do jogo, como sistemas únicos, habilidades especiais dos personagens, etc.
 - **Itens e Equipamentos:** Descrever itens e equipamentos disponíveis e como eles impactam o jogo.
@@ -45,7 +46,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 4. Mecânicas de Jogo
+## 4. Mecânicas de Jogo❌
 
 - **Controles e Movimentação:** Explicar os controles principais, teclas ou comandos do jogo.
 - **Interações:** Descrever como o jogador interage com o ambiente e com outros jogadores (ex.: combate, coleta de itens, interação com NPCs).
@@ -54,7 +55,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 5. Estrutura e Arquitetura do Projeto
+## 5. Estrutura e Arquitetura do Projeto❌
 
 - **Pastas e Organização:** Explicar a organização das pastas no projeto Roblox Studio.
 - **Estrutura de Objetos:** Descrever as principais pastas e estruturas de objetos, incluindo como os objetos estão distribuídos (Workspace, ReplicatedStorage, ServerStorage, etc.).
@@ -62,7 +63,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 6. Design de Personagens e Ambientação
+## 6. Design de Personagens e Ambientação❌
 
 - **Personagens:** Listagem dos personagens principais e suas características visuais e de comportamento.
 - **Ambientação e Cenários:** Descrição dos cenários, locais, mapas e ambientes do jogo.
@@ -70,7 +71,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 7. Scripts e Sistemas
+## 7. Scripts e Sistemas❌
 
 - **Scripts Principais:** Descrição dos scripts mais importantes, onde estão localizados e o que eles controlam.
 - **Sistema de Eventos:** Explicar como os eventos principais funcionam, como são acionados e quais respostas eles provocam.
@@ -79,7 +80,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 8. Interface do Usuário (UI)
+## 8. Interface do Usuário (UI)❌
 
 - **Elementos de UI:** Listagem dos elementos principais da interface (HUD, menus, barras de vida, etc.).
 - **Interatividade:** Explicar como o usuário interage com os elementos de UI.
@@ -87,14 +88,14 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 9. Configurações e Parâmetros
+## 9. Configurações e Parâmetros❌
 
 - **Configurações de Jogo:** Detalhar as configurações ajustáveis do jogo (como dificuldade, gráficos).
 - **Parâmetros Ajustáveis:** Explicar variáveis e parâmetros que podem ser modificados facilmente por desenvolvedores.
 
 ---
 
-## 10. Guia de Testes
+## 10. Guia de Testes❌
 
 - **Cenários de Teste:** Listar os cenários de teste e os resultados esperados para cada um.
 - **Bugs Conhecidos:** Descrever os bugs conhecidos e possíveis soluções ou status de correção.
@@ -102,11 +103,27 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 11. Referências e Links Externos
+## 11. Tecnologias Utilizadas✅
 
-- **Links Externos:** Links para recursos úteis, como documentação do Roblox, plugins, assets importantes.
-- **Tutoriais e Guias:** Links para tutoriais e guias que possam ajudar a compreender melhor o desenvolvimento no Roblox.
+- **Linguagem de Programação:** Lua  
+  Utilizada para desenvolvimento dos scripts e funcionalidades interativas do jogo.
+
+- **Ferramenta de Edição de Imagem:** Adobe Photoshop  
+  Usado para criação e ajuste de texturas, ícones e elementos visuais.
+
+- **Modelagem 3D:** Blender  
+  Utilizado para criar e editar modelos 3D personalizados.
+
+- **Ambiente de Desenvolvimento:** Roblox Studio  
+  Plataforma principal para o design, programação e construção do ambiente do jogo.
+
+- **Gerenciamento de Projeto:** Trello  
+  Ferramenta de organização para controle de tarefas, acompanhamento do progresso e colaboração entre membros da equipe.
 
 ---
 
+## 12. Referências e Links Externos❌
+
+- **Links Externos:** Links para recursos úteis, como documentação do Roblox, plugins, assets importantes.
+- **Tutoriais e Guias:** Links para tutoriais e guias que possam ajudar a compreender melhor o desenvolvimento no Roblox.
 
