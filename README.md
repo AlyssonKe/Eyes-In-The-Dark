@@ -1,12 +1,12 @@
-# [Nome do Jogo]
+# The Last Secret
 
-Bem-vindo à documentação do projeto **[Nome do Jogo]** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
+Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
 
 ---
 
 ## Índice
 
-1. [Visão Geral](#visão-geral)
+1. [The Last Secret](#the-last-secret)
 2. [Objetivos do Jogo](#objetivos-do-jogo)
 3. [Recursos do Jogo](#recursos-do-jogo)
 4. [Mecânicas de Jogo](#mecânicas-de-jogo)
@@ -22,10 +22,10 @@ Bem-vindo à documentação do projeto **[Nome do Jogo]** no Roblox! Aqui você 
 
 ## 1. Visão Geral
 
-- **Nome do Jogo:** [Nome do Jogo]
-- **Data de Início do Projeto:** [Data de Início]
+- **Nome do Jogo:** The Last Secret
+- **Data de Início do Projeto:** 06/11/2024
 - **Plataforma:** Roblox
-- **Desenvolvedores:** [Nomes das Pessoas/Equipe]
+- **Desenvolvedores:** Alysson Kennedy, Geovana Rodrigues, Matheus Costa e Taís Doring
 - **Descrição:** Resumo breve do jogo, incluindo tema, narrativa e estilo.
 
 ---
@@ -109,7 +109,4 @@ Bem-vindo à documentação do projeto **[Nome do Jogo]** no Roblox! Aqui você 
 
 ---
 
-> **Nota:** Essa documentação é apenas um ponto de partida. Conforme o desenvolvimento do jogo avança, mantenha essa documentação atualizada para refletir mudanças e novos recursos.
-
----
 
