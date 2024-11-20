@@ -3,7 +3,6 @@
 ### Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
 
 <img src="Visuals/Red-Room.png">
----
 
 ## Índice✅
 
@@ -36,6 +35,8 @@
 
 - **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
 - **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
+
+<img src="Visuals/Medieval-Yard.png">
 
 ---
 
