@@ -1,27 +1,27 @@
 # The Last Secret
 
-Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
+### Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
 
----
+<img src="Visuals/Red-Room.png">
 
 ## Índice✅
 
-1. [The Last Secret](#the-last-secret)
-2. [Objetivos do Jogo](#objetivos-do-jogo)
-3. [Recursos do Jogo](#recursos-do-jogo)
-4. [Mecânicas de Jogo](#mecânicas-de-jogo)
-5. [Estrutura e Arquitetura do Projeto](#estrutura-e-arquitetura-do-projeto)
-6. [Design de Personagens e Ambientação](#design-de-personagens-e-ambientação)
-7. [Scripts e Sistemas](#scripts-e-sistemas)
-8. [Interface do Usuário (UI)](#interface-do-usuário-ui)
-9. [Configurações e Parâmetros](#configurações-e-parâmetros)
-10. [Guia de Testes](#guia-de-testes)
-11. [Tecnologias Utilizadas](tecnologias-utilizadas)
-12. [Referências e Links Externos](#referências-e-links-externos)
+1. [Visão Geral](#1-visão-geral)
+2. [Objetivos do Jogo](#2-objetivos-do-jogo)
+3. [Recursos do Jogo](#3-recursos-do-jogo)
+4. [Mecânicas de Jogo](#4-mecânicas-de-jogo)
+5. [Estrutura e Arquitetura do Projeto](#5-estrutura-e-arquitetura-do-projeto)
+6. [Design de Personagens e Ambientação](#6-design-de-personagens-e-ambientação)
+7. [Scripts e Sistemas](#7-scripts-e-sistemas)
+8. [Interface do Usuário (UI)](#8-interface-do-usuário-ui)
+9. [Configurações e Parâmetros](#9-configurações-e-parâmetros)
+10. [Guia de Testes](#10-guia-de-testes)
+11. [Tecnologias Utilizadas](#11-tecnologias-utilizadas)
+12. [Referências e Links Externos](#12-referências-e-links-externos)
 
 ---
 
-## 1. Visão Geral✅
+## 1. Visão Geral
 
 - **Nome do Jogo:** The Last Secret
 - **Data de Início do Projeto:** 06/11/2024
@@ -31,7 +31,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 2. Objetivos do Jogo❌
+## 2. Objetivos do Jogo
 
 - **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
 - **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
