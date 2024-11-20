@@ -36,6 +36,8 @@
 - **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
 - **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
 
+<img src="Visuals/Medieval-Yard.png">
+
 ---
 
 ## 3. Recursos do Jogo❌
