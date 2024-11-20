@@ -6,8 +6,8 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ## Índice✅
 
-1. [The Last Secret](#visão-Geral)
-2. [Objetivos do Jogo](#objetivos-do-jogo)
+1. [The Last Secret](#1-visão-geral)
+2. [Objetivos do Jogo](#2-objetivos-do-jogo)
 3. [Recursos do Jogo](#recursos-do-jogo)
 4. [Mecânicas de Jogo](#mecânicas-de-jogo)
 5. [Estrutura e Arquitetura do Projeto](#estrutura-e-arquitetura-do-projeto)
