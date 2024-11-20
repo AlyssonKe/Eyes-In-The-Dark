@@ -6,7 +6,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ## Índice✅
 
-1. [The Last Secret](#the-last-secret)
+1. [The Last Secret](#visão-Geral)
 2. [Objetivos do Jogo](#objetivos-do-jogo)
 3. [Recursos do Jogo](#recursos-do-jogo)
 4. [Mecânicas de Jogo](#mecânicas-de-jogo)
@@ -21,7 +21,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 1. Visão Geral✅
+## 1. Visão Geral
 
 - **Nome do Jogo:** The Last Secret
 - **Data de Início do Projeto:** 06/11/2024
@@ -31,7 +31,7 @@ Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você
 
 ---
 
-## 2. Objetivos do Jogo❌
+## 2. Objetivos do Jogo
 
 - **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
 - **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
