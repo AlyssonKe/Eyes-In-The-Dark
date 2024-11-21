@@ -1,6 +1,6 @@
-# The Last Secret
+# Eyes In The Dark
 
-### Bem-vindo à documentação do projeto **The Last Secret** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
+### Bem-vindo à documentação do projeto **Eyes In The Dark** no Roblox! Aqui você encontrará informações sobre o desenvolvimento, estrutura, mecânicas e tudo mais relacionado ao jogo.
 
 <img src="Visuals/Red-Room.png">
 
@@ -23,7 +23,7 @@
 
 ## 1. Visão Geral
 
-- **Nome do Jogo:** The Last Secret
+- **Nome do Jogo:** Eyes In The Dark
 - **Data de Início do Projeto:** 06/11/2024
 - **Plataforma:** Roblox
 - **Desenvolvedores:** Alysson Kennedy, Geovana Rodrigues, Matheus Costa e Taís Doring.
@@ -33,8 +33,9 @@
 
 ## 2. Objetivos do Jogo
 
-- **Objetivo Principal:** Descrever o objetivo central que o jogador deve alcançar no jogo.
-- **Objetivos Secundários e Missões:** Explicar outros objetivos adicionais ou missões que o jogador pode realizar.
+- **Objetivo Principal:** Colete peças por salas desafiadoras, leve-as até um altar e escape do mapa enquanto foge de um monstro.
+- **Fugir do Monstro:** Entidade que persegue o jogador ao longo de toda a gameplay, com fraqueza à luz ultravioleta.
+- **Escapar do Mapa:** Colete a chave dourada para abrir uma escotilha e escapar.
 
 <img src="Visuals/Medieval-Yard.png">
 
@@ -42,9 +43,8 @@
 
 ## 3. Recursos do Jogo❌
 
-- **Recursos Principais:** Listagem dos principais recursos e diferenciais do jogo, como sistemas únicos, habilidades especiais dos personagens, etc.
-- **Itens e Equipamentos:** Descrever itens e equipamentos disponíveis e como eles impactam o jogo.
-- **Moedas e Economia:** Explicar a estrutura de moeda dentro do jogo e como ela pode ser usada pelo jogador.
+- **Recursos Principais:** Salas trancadas, puzzles e itens a serem coletados durante a fuga, enquanto se evita um monstro que tem medo de luz ultravioleta.
+- **Itens e Equipamentos:** Usados para desbloquear salas e coletar recursos necessários para obter o item principal e escapar.
 
 ---
 
