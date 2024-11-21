@@ -41,7 +41,7 @@
 
 ---
 
-## 3. Recursos do Jogo❌
+## 3. Recursos do Jogo
 
 - **Recursos Principais:** Salas trancadas, puzzles e itens a serem coletados durante a fuga, enquanto se evita um monstro que tem medo de luz ultravioleta.
 - **Itens e Equipamentos:** Usados para desbloquear salas e coletar recursos necessários para obter o item principal e escapar.
