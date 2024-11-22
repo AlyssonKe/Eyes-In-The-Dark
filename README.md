@@ -4,7 +4,7 @@
 
 <img src="Visuals/Red-Room.png">
 
-## Índice✅
+## Índice
 
 1. [Visão Geral](#1-visão-geral)
 2. [Objetivos do Jogo](#2-objetivos-do-jogo)
@@ -105,7 +105,7 @@
 
 ---
 
-## 11. Tecnologias Utilizadas✅
+## 11. Tecnologias Utilizadas
 
 - **Linguagem de Programação:** Lua  
   Utilizada para desenvolvimento dos scripts e funcionalidades interativas do jogo.
