@@ -15,7 +15,7 @@
 7. [Tecnologias Utilizadas](#7-tecnologias-utilizadas)
 8. [Referências e Links Externos](#8-referências-e-links-externos)
 9. [Segurança do Jogo](#9-segurança-do-jogo)
-10. [Referências e Links Externos](#10-referênicas-e-links-externos)
+10. [Referências e Links Externos](#10-referências-e-links-externos)
 
 ---
 
@@ -145,17 +145,21 @@ Essas medidas vão garantir uma experiência justa e divertida para todos os jog
 ## 10. Referências e Links Externos
 
 - **Documentação Oficial do Roblox**
+- 
 https://developer.roblox.com/
 
 - **Client-Server Communication**
+- 
 Explica como funciona a comunicação entre cliente e servidor no Roblox e práticas recomendadas para garantir segurança e eficiência no projeto.
 https://developer.roblox.com/en-us/learning-path/understanding-roblox-client-server-communication
 
 - **API do Roblox**
+- 
 Informações detalhadas sobre as funções, eventos e classes disponíveis na plataforma Roblox.
 https://developer.roblox.com/en-us/api-reference
 
 - **DataStore Guide**
+- 
 Guia para armazenar e recuperar dados dos jogadores com segurança e consistência.
 https://developer.roblox.com/en-us/learning-path/using-roblox-data-stores
   
