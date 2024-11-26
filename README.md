@@ -98,7 +98,7 @@
 
 A segurança é uma prioridade no desenvolvimento do Eyes In The Dark. Implementamos diversas medidas para garantir a integridade do jogo, proteger os jogadores e evitar práticas indevidas, como trapaças ou exploração indevida de sistemas.
 
-1. Separação de Scripts
+- **Separação de Scripts**
 
 Scripts do Cliente: Utilizados apenas para gerenciar ações locais e interações do jogador, limitando as informações que o cliente pode acessar.
 
