@@ -72,7 +72,7 @@
 
 
 ---
-**
+
 ## 7. Tecnologias Utilizadas
 
 - **Linguagem de Programação:** Lua  
