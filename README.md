@@ -14,6 +14,8 @@
 6. [Design de Personagens e Ambientação](#6-design-de-personagens-e-ambientação)
 7. [Tecnologias Utilizadas](#7-tecnologias-utilizadas)
 8. [Referências e Links Externos](#8-referências-e-links-externos)
+9. [Segurança do Jogo](#9-segurança-do-jogo)
+10. [Referências e Links Externos](#10-referênicas-e-links-externos)
 
 ---
 
@@ -92,9 +94,70 @@
 
 ---
 
-## 8. Referências e Links Externos
+## 9. Segurança do Jogo
 
-- **API do Roblox:** https://create.roblox.com/docs/pt-br/reference/engine
+A segurança é uma prioridade no desenvolvimento do Eyes In The Dark. Implementamos diversas medidas para garantir a integridade do jogo, proteger os jogadores e evitar práticas indevidas, como trapaças ou exploração indevida de sistemas.
+
+1. Separação de Scripts
+
+Scripts do Cliente: Utilizados apenas para gerenciar ações locais e interações do jogador, limitando as informações que o cliente pode acessar.
+
+Scripts do Servidor: Responsáveis por todas as decisões críticas do jogo, como validação de ações, gerenciamento de itens, posições de objetos, e lógica central. Esses scripts estão protegidos de acesso direto por jogadores.
+
+
+- **Comunicação Segura Cliente-Servidor**
+
+Uso de RemoteEvents e RemoteFunctions com validação rigorosa no servidor para evitar que ações maliciosas enviadas pelos clientes alterem o estado do jogo de maneira indevida.
+
+Todas as requisições enviadas pelos clientes são verificadas para determinar sua autenticidade antes de serem processadas.
+
+
+- **Armazenamento de Dados**
+
+Os dados do jogo (como progresso, pontuações e inventários) são armazenados de maneira segura no DataStore do Roblox, com mecanismos de redundância para prevenir corrupção ou perda.
+
+Dados sensíveis nunca são expostos diretamente aos clientes, garantindo a privacidade dos jogadores.
+
+
+- **Anti-Cheat**
+
+Integração de scripts especializados para monitorar comportamentos suspeitos, como velocidade anormal, teletransporte ou acesso a áreas não permitidas. Jogadores que tentarem realizar ações fora do esperado serão automaticamente desconectados.
+
+Rotinas periódicas verificam inconsistências entre o cliente e o servidor.
+
+
+- **Controle de Exploits**
+
+Recursos sensíveis, como itens e habilidades, só podem ser alterados por comandos provenientes do servidor.
+
+Objetos importantes, como portas e puzzles, têm validação extra no servidor para evitar que ações externas manipulem seu estado.
+
+
+- **Atualizações e Monitoramento**
+
+Manutenção contínua para corrigir vulnerabilidades e aplicar melhorias de segurança com base em novas ameaças ou descobertas.
+
+Logs do servidor são analisados regularmente para identificar padrões de comportamento suspeito e agir preventivamente.
+
+Essas medidas vão garantir uma experiência justa e divertida para todos os jogadores, além de preservar a qualidade e integridade do Eyes In The Dark.
+
+
+## 10. Referências e Links Externos
+
+- **Documentação Oficial do Roblox**
+https://developer.roblox.com/
+
+- **Client-Server Communication**
+Explica como funciona a comunicação entre cliente e servidor no Roblox e práticas recomendadas para garantir segurança e eficiência no projeto.
+https://developer.roblox.com/en-us/learning-path/understanding-roblox-client-server-communication
+
+- **API do Roblox**
+Informações detalhadas sobre as funções, eventos e classes disponíveis na plataforma Roblox.
+https://developer.roblox.com/en-us/api-reference
+
+- **DataStore Guide**
+Guia para armazenar e recuperar dados dos jogadores com segurança e consistência.
+https://developer.roblox.com/en-us/learning-path/using-roblox-data-stores
   
 ---
 
