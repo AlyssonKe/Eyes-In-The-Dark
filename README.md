@@ -98,4 +98,4 @@
   
 ---
 
-O jogo ainda está em desenvolvimento e seguirá os proximos passos para que seja disponibilizado na plataforma e lançado oficialkmente no Roblox. **
+** O jogo ainda está em desenvolvimento e seguirá os proximos passos para que seja disponibilizado na plataforma e lançado oficialmente no Roblox. **
