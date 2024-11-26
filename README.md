@@ -90,11 +90,12 @@
 - **Gerenciamento de Projeto:** Trello  
   Ferramenta de organização para controle de tarefas, acompanhamento do progresso e colaboração entre membros da equipe.
 
-  O jogo ainda está em desenvolvimento e seguirá os proximos passos para que seja disponibilizado na plataforma e lançado oficialkmente. 
-
 ---
 
 ## 8. Referências e Links Externos
 
 - **API do Roblox:** https://create.roblox.com/docs/pt-br/reference/engine
+  
+---
 
+O jogo ainda está em desenvolvimento e seguirá os proximos passos para que seja disponibilizado na plataforma e lançado oficialkmente. 
