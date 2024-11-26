@@ -68,7 +68,7 @@
 
 ## 6. Design de Personagens e Ambientação
 
-- **Personagens:** **James (Monstro do Jogo)**.
+- **Personagens:** [**James (Monstro do Jogo)**](https://github.com/AlyssonKe/Eyes-In-The-Dark/tree/main/Monster).
 - **Ambientação e Cenários:** O jogo se passa em um laborátorio abandonado, aonde James fazia seus experimentos clandestinamente.
 
 ---
